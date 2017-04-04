@@ -1,0 +1,47 @@
+[
+  {
+    "name": "kick",
+    "hotkey": "q",
+    "source": "launchpad/kick2.mp3"
+  },
+  {
+    "name": "snare",
+    "hotkey": "w",
+    "source": "launchpad/snare.mp3"
+  },
+  {
+    "name": "snap",
+    "hotkey": "e",
+    "source": "launchpad/snap1.mp3"
+  },
+  {
+    "name": "hihat",
+    "hotkey": "r",
+    "source": "launchpad/hihat1.mp3"
+  },
+  {
+    "name": "du",
+    "hotkey": "a",
+    "source": "launchpad/du.wav"
+  },
+  {
+    "name": "dududududu",
+    "hotkey": "y",
+    "source": "launchpad/dududududu.wav"
+  },
+  {
+    "name": "swing",
+    "hotkey": "s",
+    "source": "launchpad/swing.wav"
+  },
+  {
+    "name": "the remix",
+    "hotkey": "d",
+    "source": "launchpad/the_remix.wav"
+  },
+  {
+    "name": "gone",
+    "hotkey": "f",
+    "source": "launchpad/gone.wav"
+  }
+]
